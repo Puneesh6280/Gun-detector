@@ -1,4 +1,5 @@
 # Gun-detector
+![image](https://user-images.githubusercontent.com/76698487/118390762-70235480-b64e-11eb-897c-b5174f653353.png)
 
 ## :star: Features
 This python program will allow you to detect Guns using your webcam.
